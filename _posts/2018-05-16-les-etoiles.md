@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les étoiles
+title: "Bribes n°3: Les étoiles"
 categories: bribes
 ---
 

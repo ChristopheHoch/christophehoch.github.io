@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le placard
+title: "Bribes n°1: Le placard"
 categories: bribes
 ---
 
