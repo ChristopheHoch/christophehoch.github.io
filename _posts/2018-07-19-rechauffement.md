@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Réchauffement"
+title: "Bribes n°12: Réchauffement"
 categories: bribes
 ---
 

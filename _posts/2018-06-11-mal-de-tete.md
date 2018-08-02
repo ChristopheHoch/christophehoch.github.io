@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mal de tête"
+title: "Bribes n°10: Mal de tête"
 categories: bribes
 ---
 

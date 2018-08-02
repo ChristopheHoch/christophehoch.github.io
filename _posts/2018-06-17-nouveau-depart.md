@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nouveau départ"
+title: "Bribes n°11: Nouveau départ"
 categories: bribes
 ---
 
