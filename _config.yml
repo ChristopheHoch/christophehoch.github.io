@@ -34,9 +34,11 @@ google_analytics: UA-38881656-5
 lang: fr_FR
 logo: /assets/logo-large.jpg
 markdown: kramdown
+paginate: 7
 permalink: pretty
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 show_excerpts: true
 theme: minima
 
